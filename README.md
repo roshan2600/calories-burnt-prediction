@@ -1,1 +1,1 @@
-# calories-burnt-prediction
+# Insurance Price Prediction
